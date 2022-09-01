@@ -1,0 +1,6 @@
+C:\Users\OneSmiLe\source\repos\Sorter\Sorter\obj\Debug\Sorter.csproj.AssemblyReference.cache
+C:\Users\OneSmiLe\source\repos\Sorter\Sorter\obj\Debug\Sorter.csproj.SuggestedBindingRedirects.cache
+C:\Users\OneSmiLe\source\repos\Sorter\Sorter\obj\Debug\Sorter.Form1.resources
+C:\Users\OneSmiLe\source\repos\Sorter\Sorter\obj\Debug\Sorter.Properties.Resources.resources
+C:\Users\OneSmiLe\source\repos\Sorter\Sorter\obj\Debug\Sorter.csproj.GenerateResource.cache
+C:\Users\OneSmiLe\source\repos\Sorter\Sorter\obj\Debug\Sorter.csproj.CoreCompileInputs.cache
